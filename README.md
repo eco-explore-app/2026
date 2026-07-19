@@ -1,1 +1,1 @@
-# 2026
+# EcoExplore V2.0
